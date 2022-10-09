@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Group/Scouts.md
       - Uniformed Group/.keep
       - Club and Societies/Environmental Science Club.md
       - Club and Societies/Robotics Club.md
