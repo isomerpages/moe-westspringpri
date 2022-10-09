@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY through Music/.keep
       - PLAY through PAL/Overview.md
       - PLAY through PAL/Key Programmes.md
       - PLAY through PAL/.keep
