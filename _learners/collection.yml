@@ -2,7 +2,6 @@ collections:
   learners:
     output: true
     order:
-      - PLAY at WSPS.md
       - PLAY through English.md
       - PLAY through Maths.md
       - PLAY through Science.md
