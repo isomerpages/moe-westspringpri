@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY through Science.md
       - PLAY through Mother Tongue.md
       - PLAY through PHF.md
       - PLAY through Art.md
