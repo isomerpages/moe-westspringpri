@@ -2,6 +2,7 @@ collections:
   values:
     output: true
     order:
+      - Commemorative Events/2022.md
       - Commemorative Events/2021.md
       - Commemorative Events/.keep
       - Character Education/Overview.md
