@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/.keep
       - Visual and Performing Art/Modern Dance.md
       - Visual and Performing Art/Chinese Calligraphy.md
       - Visual and Performing Art/Percussion Ensemble.md
