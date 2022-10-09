@@ -2,5 +2,6 @@ collections:
   passion:
     output: true
     order:
+      - Pursue Our Passion/2022.md
       - Pursue Our Passion/2021.md
       - Pursue Our Passion/.keep
