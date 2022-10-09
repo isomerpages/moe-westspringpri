@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People.md
       - Our School Facilities.md
       - Contact Us/School Location & Contact Details.md
       - Contact Us/School Hours 2022.md
