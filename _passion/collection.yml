@@ -2,8 +2,8 @@ collections:
   passion:
     output: true
     order:
-      - CCAs.md
       - Overview.md
+      - CCAs.md
+      - Pursue Our Passion/.keep
       - Pursue Our Passion/2022.md
       - Pursue Our Passion/2021.md
-      - Pursue Our Passion/.keep
