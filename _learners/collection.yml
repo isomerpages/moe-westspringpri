@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY through PHF/Key Programmes (PHF).md
       - PLAY through PHF/.keep
       - PLAY through Art/Overview.md
       - PLAY through Art/Key Programmes (Art).md
