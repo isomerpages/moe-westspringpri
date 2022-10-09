@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - Play at WSPS/.keep
       - PLAY through English/Overview.md
       - PLAY through English/Key Programmes (English).md
       - PLAY through English/.keep
