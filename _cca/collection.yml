@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Art/Digital Media Club.md
       - Visual and Performing Art/.keep
       - Uniformed Group/Scouts.md
       - Uniformed Group/.keep
