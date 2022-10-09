@@ -1,4 +1,5 @@
 collections:
   pursue-our-passion:
     output: true
-    order: []
+    order:
+      - 2021.md
