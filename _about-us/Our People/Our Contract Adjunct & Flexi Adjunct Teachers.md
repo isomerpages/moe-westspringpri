@@ -8,13 +8,19 @@ third_nav_title: Our People
 
 Please contact the General Office at 6314 4192 if you like to get in touch with the following staff.
 
-| Contract Adjunct Teachers (CAJT) |
+####  Contract Adjunct Teachers (CAJT)
+
+|  |
 |---|
 | Mdm Juita Bte Neemat |
 | Mr Mahmud Bin Hussain |
 | Mr Nicholas Ee |
 
-| Flexi Adjunct Teachers (FAJT) |
+
+#### Flexi Adjunct Teachers (FAJT)
+
+
+|   |
 | --- |
 | Mr Abdolah |
 | Mdm Chen Ching Ching |
