@@ -2,7 +2,6 @@ collections:
   learners:
     output: true
     order:
-      - PLAY through Programme for Active Learning (PAL).md
       - Key Programmes (Social Studies).md
       - Key Programmes (Information and Communication Technology).md
       - Student Development Team.md
