@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY through Art/Overview.md
       - PLAY through Art/Key Programmes (Art).md
       - PLAY through Art/.keep
       - PLAY through Music/Overview.md
