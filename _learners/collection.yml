@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY through Maths/Overview.md
       - PLAY through Maths/Key Programmes (Maths).md
       - PLAY through Maths/.keep
       - PLAY through Science/Overview.md
