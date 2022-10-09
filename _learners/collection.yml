@@ -2,5 +2,6 @@ collections:
   learners:
     output: true
     order:
+      - Key Programmes (Social Studies).md
       - Key Programmes (Information and Communication Technology).md
       - Student Development Team.md
