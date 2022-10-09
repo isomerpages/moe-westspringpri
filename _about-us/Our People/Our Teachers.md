@@ -30,21 +30,21 @@ third_nav_title: Our People
 | 3D | Mr Calvin Tan<br>[tan\_wui\_nam@moe.edu.sg](mailto:tan_wui_nam@moe.edu.sg)| Miss Leow Ke Yun<br>[Leow\_KE\_YUN@moe.edu.sg](mailto:Leow_KE_YUN@moe.edu.sg) |
 | 3E | Mr Justin Paolo<br>[justin\_paolo@moe.edu.sg](mailto:Justin_paolo@moe.edu.sg) | Mdm Punitha<br>[punitha\_murugaiah\_maniam@moe.edu.sg](mailto:punitha_murugaiah_maniam@moe.edu.sg)<br>Ms Adria<br>[ang\_lee\_kiang@moe.edu.sg](mailto:ang_lee_kiang@moe.edu.sg) |
 | 3F | Mr Chu Wen Shen<br>[chu\_wen\_shen@moe.edu.sg](mailto:chu_wen_shen@moe.edu.sg) | Mdm Aniza<br>[aniza\_samat@moe.edu.sg](mailto:aniza_samat@moe.edu.sg)<br>Ms Suvitha<br>[suvitha\_prakass\_pillay@moe.edu.sg](mailto:suvitha_prakass_pillay@moe.edu.sg) |
-| 4A | Mdm Nurwati Bte Sarip<br>nurwati_sarip@moe.edu.sg | Mdm Florence Wong<br>wong_khei_yee_florence@moe.edu.sg |
-| 4B | Mdm Tang Kuan Ying<br>tang_kuan_ying@moe.edu.sg | Ms Nur Ashiqin<br>nur_ashiqin_saat@moe.edu.sg<br>Ms Jasmine Wong<br>Jasmine_WONG_JING_XIN@moe.edu.sg |
-| 4C | Ms Mindy Wong<br>wong_min_yin@moe.edu.sg | Ms Nur Nazurah Binte Abdul Rahim<br>Nur_Nazurah_Abdul_Rahim@moe.edu.sg<br><br>Miss Annalynna<br>annalynna_ather_ts@moe.edu.sg |
-| 4D | Miss Fatin Nurul Ain Binti Suandi<br>Fatin_NURUL@moe.edu.sg | Mr Weng Kai Bin<br>weng_kaibin@moe.edu.sg |
-| 4E | Mdm Tan Sin Hwee, Dawn<br>tan_sin_hwee@moe.edu.sg | Mr Din<br>muhammad_fakhruddin_daud@moe.edu.sg |
-| 4F | Mdm Shalarnee D/O Raja Rethinam<br>shalarnee_raja_rethinam@moe.edu.sg | Miss Lek Siew Gek<br>lek_siew_gek@moe.edu.sg |
-| 5A | Ms Violet Pon<br>pon_wai_han_violet@moe.edu.sg | Mdm Cao Liu<br>cao_liu@moe.edu.sg |
-| 5B | Mr Lim Ker Wee<br>lim_ker_wee@moe.edu.sg | Ms Revathi<br>revathi_raja_krishnan@moe.edu.sg |
-| 5C | Mdm Nur Atiqah<br>nur_atiqah_musa@moe.edu.sg | Mr Kwan Wai Leong<br>kwan_wai_leong@moe.edu.sg |
-| 5D | Mdm Nur Hafizah Binte Mazlan<br>nur_hafizah_mazlan@moe.edu.sg | Mdm Tang Sock Kien<br>tang_sock_kien@moe.edu.sg |
-| 5E | Mr Ko Chen Wei<br>ko_chen_wei@moe.edu.sg | Mrs Pauline Soh<br>quek_hui_hiang_pauline@moe.edu.sg<br>Miss Chan Xue Ting<br>chan_xue_ting@moe.edu.sg |
-| 5F | Mr Adam Lim<br>lim_pei_tsung@moe.edu.sg | Mr Liang Hong Poh<br>liang_hong_poh@moe.edu.sg<br>Mdm Norain Binte Hassein<br>norain_hassein@moe.edu.sg |
-| 6A | Mdm Raslinda<br>raslinda_ahmad_rasidir@moe.edu.sg | Mr Ng Kwang Meng, James<br>ng_kwang_meng_james@moe.edu.sg |
-| 6B | Mdm Lee Seng Tiang<br>lee_seng_tiang@moe.edu.sg | Mrs Nanda<br>thilakavaty_govindasamy@moe.edu.sg |
-| 6C | Mrs Zahid<br>maria_roziah_zamani@moe.edu.sg | Mr Mohamed Shodikin Wahid<br>mohamed_shodikin_wahid@moe.edu.sg<br>Mr Abbas<br>abbas_k_abdulla_kutty@moe.edu.sg |
-| 6D | Mrs Evelyn Zhong<br>chan_yu_ting_evelyn@moe.edu.sg | Mr Azhar B Mohamed Hussain<br>azhar_mohamed_hussain@moe.edu.sg<br>Ms Chong Ming Jia<br>chong_ming_jia@moe.edu.sg |
-| 6E | Mr Michael Chua<br>chua_yew_sein_michael@moe.edu.sg | Mdm Zainab Bte Nawabi<br>zainab_nawabi@moe.edu.sg<br>Mrs Lack Hwee Leng<br>ong_hwee_leng@moe.edu.sg |
-| 6F | Miss Ho Shi Yin<br>ho_shi_yin@moe.edu.sg | Mr Samuel Mok Zijun<br>mok_zijun_samuel@moe.edu.sg |
+| 4A | Mdm Nurwati Bte Sarip<br>[nurwati\_sarip@moe.edu.sg](mailto:nurwati_sarip@moe.edu.sg) | Mdm Florence Wong<br>[wong\_khei\_yee\_florence@moe.edu.sg](mailto:wong_khei_yee_florence@moe.edu.sg) |
+| 4B | Mdm Tang Kuan Ying<br>[tang\_kuan\_ying@moe.edu.sg](mailto:tang_kuan_ying@moe.edu.sg) | Ms Nur Ashiqin<br>[nur\_ashiqin\_saat@moe.edu.sg](mailto:nur_ashiqin_saat@moe.edu.sg)<br>Ms Jasmine Wong<br>[Jasmine\_WONG\_JING\_XIN@moe.edu.sg](mailto:Jasmine_WONG_JING_XIN@moe.edu.sg) |
+| 4C | Ms Mindy Wong<br>[wong\_min\_yin@moe.edu.sg](mailto:wong_min_yin@moe.edu.sg) | Ms Nur Nazurah Binte Abdul Rahim<br>[Nur\_Nazurah\_Abdul\_Rahim@moe.edu.sg](mailto:Nur_Nazurah_Abdul_Rahim@moe.edu.sg)<br><br>Miss Annalynna<br>[annalynna\_ather\_ts@moe.edu.sg](mailto:annalynna_ather_ts@moe.edu.sg) |
+| 4D | Miss Fatin Nurul Ain Binti Suandi<br>[Fatin\_NURUL@moe.edu.sg](mailto:Fatin_NURUL@moe.edu.sg) | Mr Weng Kai Bin<br>[weng\_kaibin@moe.edu.sg](mailto:weng_kaibin@moe.edu.sg) |
+| 4E | Mdm Tan Sin Hwee, Dawn<br>[tan\_sin\_hwee@moe.edu.sg](mailto:tan_sin_hwee@moe.edu.sg) | Mr Din<br>[muhammad\_fakhruddin\_daud@moe.edu.sg](mailto:muhammad_fakhruddin_daud@moe.edu.sg) |
+| 4F | Mdm Shalarnee D/O Raja Rethinam<br>[shalarnee\_raja\_rethinam@moe.edu.sg](mailto:shalarnee_raja_rethinam@moe.edu.sg) | Miss Lek Siew Gek<br>[lek\_siew\_gek@moe.edu.sg](mailto:lek_siew_gek@moe.edu.sg) |
+| 5A | Ms Violet Pon<br>[pon\_wai\_han\_violet@moe.edu.sg](mailto:pon_wai_han_violet@moe.edu.sg) | Mdm Cao Liu<br>[cao\_liu@moe.edu.sg](mailto:cao_liu@moe.edu.sg) |
+| 5B | Mr Lim Ker Wee<br>[lim\_ker\_wee@moe.edu.sg](mailto:lim_ker_wee@moe.edu.sg) | Ms Revathi<br>[revathi\_raja\_krishnan@moe.edu.sg](mailto:revathi_raja_krishnan@moe.edu.sg) |
+| 5C | Mdm Nur Atiqah<br>[nur\_atiqah\_musa@moe.edu.sg](mailto:nur_atiqah_musa@moe.edu.sg) | Mr Kwan Wai Leong<br>[kwan\_wai\_leong@moe.edu.sg](mailto:kwan_wai_leong@moe.edu.sg) |
+| 5D | Mdm Nur Hafizah Binte Mazlan<br>[nur\_hafizah\_mazlan@moe.edu.sg](mailto:nur_hafizah_mazlan@moe.edu.sg) | Mdm Tang Sock Kien<br>[tang\_sock\_kien@moe.edu.sg](mailto:tang_sock_kien@moe.edu.sg) |
+| 5E | Mr Ko Chen Wei<br>[ko\_chen\_wei@moe.edu.sg](mailto:ko_chen_wei@moe.edu.sg) | Mrs Pauline Soh<br>[quek\_hui\_hiang\_pauline@moe.edu.sg](mailto:quek_hui_hiang_pauline@moe.edu.sg)<br>Miss Chan Xue Ting<br>[chan\_xue\_ting@moe.edu.sg](mailto:chan_xue_ting@moe.edu.sg) |
+| 5F | Mr Adam Lim<br>[lim\_pei\_tsung@moe.edu.sg](mailto:lim_pei_tsung@moe.edu.sg) | Mr Liang Hong Poh<br>[liang\_hong\_poh@moe.edu.sg](mailto:liang_hong_poh@moe.edu.sg)<br>Mdm Norain Binte Hassein<br>[norain\_hassein@moe.edu.sg](mailto:norain_hassein@moe.edu.sg) |
+| 6A | Mdm Raslinda<br>[raslinda\_ahmad\_rasidir@moe.edu.sg](mailto:raslinda_ahmad_rasidir@moe.edu.sg) | Mr Ng Kwang Meng, James<br>[ng\_kwang\_meng\_james@moe.edu.sg](mailto:ng_kwang_meng_james@moe.edu.sg) |
+| 6B | Mdm Lee Seng Tiang<br>[lee\_seng\_tiang@moe.edu.sg](mailto:lee_seng_tiang@moe.edu.sg) | Mrs Nanda<br>[thilakavaty\_govindasamy@moe.edu.sg](mailto:thilakavaty_govindasamy@moe.edu.sg) |
+| 6C | Mrs Zahid<br>[maria\_roziah\_zamani@moe.edu.sg](mailto:maria_roziah_zamani@moe.edu.sg) | Mr Mohamed Shodikin Wahid<br>[mohamed\_shodikin\_wahid@moe.edu.sg](mailto:mohamed_shodikin_wahid@moe.edu.sg)<br>Mr Abbas<br>[abbas\_k\_abdulla\_kutty@moe.edu.sg](mailto:abbas_k_abdulla_kutty@moe.edu.sg) |
+| 6D | Mrs Evelyn Zhong<br>[chan\_yu\_ting\_evelyn@moe.edu.sg](mailto:chan_yu_ting_evelyn@moe.edu.sg) | Mr Azhar B Mohamed Hussain<br>[azhar\_mohamed\_hussain@moe.edu.sg](mailto:azhar_mohamed_hussain@moe.edu.sg)<br>Ms Chong Ming Jia<br>[chong\_ming\_jia@moe.edu.sg](mailto:chong_ming_jia@moe.edu.sg) |
+| 6E | Mr Michael Chua<br>[chua\_yew\_sein\_michael@moe.edu.sg](mailto:chua_yew_sein_michael@moe.edu.sg) | Mdm Zainab Bte Nawabi<br>[zainab\_nawabi@moe.edu.sg](mailto:zainab_nawabi@moe.edu.sg)<br>Mrs Lack Hwee Leng<br>[ong\_hwee\_leng@moe.edu.sg](mailto:ong_hwee_leng@moe.edu.sg) |
+| 6F | Miss Ho Shi Yin<br>[ho\_shi\_yin@moe.edu.sg](mailto:ho_shi_yin@moe.edu.sg) | Mr Samuel Mok Zijun<br>[mok\_zijun\_samuel@moe.edu.sg](mailto:mok_zijun_samuel@moe.edu.sg) |
