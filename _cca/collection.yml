@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Club and Societies/Robotics Club.md
       - Club and Societies/Strategy Games Club.md
       - Club and Societies/.keep
       - Overview.md
