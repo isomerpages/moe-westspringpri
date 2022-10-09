@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - PLAY through Science/Key Programmes (Science).md
       - PLAY through Science/.keep
       - PLAY through Mother Tongue/Overview.md
       - PLAY through Mother Tongue/Key Programmes (Mother Tongue Languages).md
