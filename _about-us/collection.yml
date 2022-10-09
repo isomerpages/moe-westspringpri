@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Song.md
       - Our School Logo.md
       - Our School Mascot.md
       - School Code of Conduct.md
