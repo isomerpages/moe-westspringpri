@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/School Bookshop.md
       - Contact Us/School Dental Clinic.md
       - Contact Us/.keep
