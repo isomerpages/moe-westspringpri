@@ -2,6 +2,8 @@ collections:
   moe-kindergarten-at-ws:
     output: true
     order:
+      - Open House and Registration exercise for MOE Kindergarten at West
+        Sprint.md
       - K1 2021 Orientation.md
       - MK Uniform.md
       - Gallery.md
