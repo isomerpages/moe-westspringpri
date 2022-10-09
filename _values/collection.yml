@@ -2,5 +2,6 @@ collections:
   values:
     output: true
     order:
+      - Values in Action/Overview.md
       - Values in Action/Key Programmes (VIA).md
       - Values in Action/.keep
