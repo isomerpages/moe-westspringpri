@@ -2,4 +2,5 @@ collections:
   leaders:
     output: true
     order:
+      - Our Student Leaders/Key Programmes (Leaders).md
       - Our Student Leaders/.keep
