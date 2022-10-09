@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 |  |  |
 |---|---|
-| PRINCIPAL | Mr Willy Tan |
-| VICE-PRINCIPAL | Mdm Kum Lai Meng |
-|  | Mr Dave Sim |
-|  | Ms Linda Chua |
+| PRINCIPAL | **Mr Willy Tan** |
+| VICE-PRINCIPAL | **Mdm Kum Lai Meng** |
+|  | **Mr Dave Sim** |
+|  | **Ms Linda Chua** |
