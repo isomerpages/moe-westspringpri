@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-ws:
     output: true
     order:
+      - MOE Kindergarten Virtual Open House 2022.md
       - Open House and Registration exercise for MOE Kindergarten at West
         Sprint.md
       - K1 2021 Orientation.md
