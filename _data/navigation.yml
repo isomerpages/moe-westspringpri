@@ -4,3 +4,10 @@ links:
     collection: about-us
   - title: Learners
     collection: learners
+  - title: Passion
+    url: /passion/overview/
+    sublinks:
+      - title: CCA
+        url: /cca/overview/
+      - title: Pursue Our Passion
+        url: /pursue-our-passion/overview/
