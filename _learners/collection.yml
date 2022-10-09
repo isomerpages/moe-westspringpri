@@ -2,7 +2,6 @@ collections:
   learners:
     output: true
     order:
-      - PLAY through Art.md
       - PLAY through Music.md
       - PLAY through Programme for Active Learning (PAL).md
       - Key Programmes (Social Studies).md
