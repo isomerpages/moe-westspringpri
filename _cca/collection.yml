@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Physical Sports/Outdoor Adventure Club.md
       - Physical Sports/.keep
       - Visual and Performing Art/Modern Dance.md
       - Visual and Performing Art/Chinese Calligraphy.md
