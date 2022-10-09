@@ -1,6 +1,0 @@
-collections:
-  cca:
-    output: true
-    order:
-      - Overview.md
-      - Clubs and Scocities/.keep
