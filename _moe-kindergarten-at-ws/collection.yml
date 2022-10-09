@@ -2,5 +2,6 @@ collections:
   moe-kindergarten-at-ws:
     output: true
     order:
+      - K1 2021 Orientation.md
       - MK Uniform.md
       - Gallery.md
