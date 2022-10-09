@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - Play at WSPS/Our Philosophy and Learning Approach.md
       - Play at WSPS/Achieving Balance Between Play & Didactic Teaching.md
       - Play at WSPS/.keep
       - PLAY through English/Overview.md
