@@ -2,6 +2,7 @@ collections:
   learners:
     output: true
     order:
+      - Play through PHF.md
       - Play through Art.md
       - Play through Music.md
       - Play through Programme for Active Learning (PAL).md
