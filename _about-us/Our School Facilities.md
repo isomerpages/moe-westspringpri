@@ -10,3 +10,8 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 <img src="/images/sf1.png" style="width:40%" align=left><figcaption> Redesigned Classroom</figcaption>
 
 <img src="/images/sf2.png" style="width:40%" align=left> <figcaption> Programme for Active Learning (PAL) Room</figcaption>
+
+
+<img src="/images/sf3.png" style="width:40%" align=left><figcaption> Music Room</figcaption>
+
+<img src="/images/sf4.png" style="width:40%" align=left> <figcaption> Performing Stage at WOW – Woods of Wonder<Br>(School Library)</figcaption>
