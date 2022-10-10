@@ -10,7 +10,7 @@ third_nav_title: Contact Us
 
 Insert google calendar
 
-**Address:** 60 Bukit Panjang Ring Road S679946
+**Address:** 60 Bukit Panjang Ring Road S679946<br>
 **Email: [westspring\_ps@moe.edu.sg](mailto:westspring_ps@moe.edu.sg)**
 
 **Telephone:** 63144192<br>
