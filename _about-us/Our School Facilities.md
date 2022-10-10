@@ -26,9 +26,38 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 |---|---|
 | <figure><img src="/images/sf13.png" style="width:75%">Running Track</figure> | <figure><img src="/images/sf14.png" style="width:75%">Art & Craft Room</figure> |
 | <figure><img src="/images/sf15.png" style="width:75%">Band Room</figure> | <figure><img src="/images/sf16.png" style="width:75%">Dance Studio</figure> |
-| <figure><img src="/images/sf17.png" style="width:75%">>Dental Clinic</figure> | <figure><img src="/images/sf18.png" style="width:75%">Mathematics room</figure> |
+| <figure><img src="/images/sf17.png" style="width:75%">Dental Clinic</figure> | <figure><img src="/images/sf18.png" style="width:75%">Mathematics room</figure> |
 
 |  |  |
 |---|---|
-| <figure><img src="/images/sf19.png" style="width:65%">Science Room1</figure> | <figure><img src="/images/sf20.png" style="width:75%"> </figure> |
-| <figure><img src="/images/sf21.png" style="width:65%">Science Room 2</figure> | <figure><img src="/images/sf22.png" style="width:75%"></figure> |
+| <figure><img src="/images/sf19.png" style="width:35%">Science Room1</figure> | <figure><img src="/images/sf20.png" style="width:95%"> </figure> |
+| <figure><img src="/images/sf21.png" style="width:35%">Science Room 2</figure> | <figure><img src="/images/sf22.png" style="width:95%"></figure> |
+
+<figure><img src="/images/sf23.png" style="width:35%"><figcaption> The Delightful Experience in Learning & Interaction (DELI) Room</figcaption></figure>
+
+|  |  |
+|---|---|
+|<figure><img src="/images/sf24.png" style="width:95%"></figure> | <figure><img src="/images/sf25.png" style="width:95%"></figure> |
+
+<figure><b>WOW – Woods of Wonder (School Library)</b></figure>
+
+<img src="/images/sf26.png" style="width:65%">
+
+<img src="/images/sf27.png" style="width:65%">
+
+<figure><b>Oceans of Wonder (School Library)</b></figure>
+
+|  |  |
+|---|---|
+| <figure><img src="/images/sf28.png" style="width:75%"> Play Garden</figure> | <figure><img src="/images/sf29.png" style="width:75%"> Our rabbit mascot at the school porch</figure> |
+| <figure><img src="/images/sf30.png" style="width:75%">Eco Pond</figure> | <figure><img src="/images/sf31.png" style="width:75%">Eco Pond</figure> |
+
+|  |  |
+|---|---|
+| <figure><img src="/images/sf32.png" style="width:75%"> Chess Garden</figure> | <figure><img src="/images/sf33.png" style="width:75%"> Checkers Garden</figure> |
+| <figure><img src="/images/sf34.png" style="width:75%">Herbs Garden</figure> | <figure><img src="/images/sf35.png" style="width:75%">Playground</figure> |
+
+|  |  |
+|---|---|
+| <figure><img src="/images/sf36.png" style="width:75%"> Pedals</figure> | <figure><img src="/images/sf37.png" style="width:75%"> Pedals</figure> |
+| <figure><img src="/images/sf38.png" style="width:75%">Net-A-Maze</figure> | <figure><img src="/images/sf39.png" style="width:75%">Our SPACE<br>(Students’ Play Area to Create and Explore)</figure> |
