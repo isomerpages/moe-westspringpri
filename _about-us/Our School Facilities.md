@@ -9,15 +9,26 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 
 |  |  |
 |---|---|
-| <figure><img src="/images/sf1.png" style="width:75%"><figcaption> Redesigned Classroom</figcaption></figure> | <figure><img src="/images/sf2.png" style="width:75%"><figcaption> Programme for Active Learning (PAL) Room</figcaption></figure> |
-| <figure><img src="/images/sf3.png" style="width:75%"><figcaption>Music Room</figcaption></figure> | <figure><img src="/images/sf4.png" style="width:75%"><figcaption> Performing Stage at WOW – Woods of Wonder<Br>(School Library)</figcaption></figure> |
+| <figure><img src="/images/sf1.png" style="width:75%"> Redesigned Classroom</figure> | <figure><img src="/images/sf2.png" style="width:75%"> Programme for Active Learning (PAL) Room</figure> |
+| <figure><img src="/images/sf3.png" style="width:75%">Music Room</figure> | <figure><img src="/images/sf4.png" style="width:75%">Performing Stage at WOW – Woods of Wonder<Br>(School Library)</figure> |
 
 |  |  |
 |---|---|
-| <figure><img src="/images/sf5.png" style="width:75%"><figcaption> Computer Room</figcaption></figure> | <figure><img src="/images/sf6.png" style="width:75%"><figcaption>The MALL<br>(Multi-disciplinary Approach to Learning with Lego)</figcaption></figure> |
-| <figure><img src="/images/sf7.png" style="width:75%"><figcaption>Outdoor Performing Theatre</figcaption></figure> | <figure><img src="/images/sf8.png" style="width:75%"><figcaption> Indoor Sports Hall</figcaption></figure> |
+| <figure><img src="/images/sf5.png" style="width:75%">Computer Room</figure> | <figure><img src="/images/sf6.png" style="width:75%">The MALL<br>(Multi-disciplinary Approach to Learning with Lego)</figure> |
+| <figure><img src="/images/sf7.png" style="width:75%">Outdoor Performing Theatre</figure> | <figure><img src="/images/sf8.png" style="width:75%"> Indoor Sports Hall</figure> |
 
 |  |  |
 |---|---|
-| <figure><img src="/images/sf9.png" style="width:75%"><figcaption> Multi Purpose Hall</figcaption></figure> | <figure><img src="/images/sf10.png" style="width:75%"><figcaption>Astro Soccer Turf</figcaption></figure> |
-| <figure><img src="/images/sf11.png" style="width:75%"><figcaption>Sandpit</figcaption></figure> | <figure><img src="/images/sf12.png" style="width:75%"><figcaption>Parade Square</figcaption></figure> |
+| <figure><img src="/images/sf9.png" style="width:75%">Multi Purpose Hall</figure> | <figure><img src="/images/sf10.png" style="width:75%">Astro Soccer Turf</figure> |
+| <figure><img src="/images/sf11.png" style="width:75%">Sandpit</figure> | <figure><img src="/images/sf12.png" style="width:75%">Parade Square</figure> |
+
+|  |  |
+|---|---|
+| <figure><img src="/images/sf13.png" style="width:75%">Running Track</figure> | <figure><img src="/images/sf14.png" style="width:75%">Art & Craft Room</figure> |
+| <figure><img src="/images/sf15.png" style="width:75%">Band Room</figure> | <figure><img src="/images/sf16.png" style="width:75%">Dance Studio</figure> |
+| <figure><img src="/images/sf17.png" style="width:75%">>Dental Clinic</figure> | <figure><img src="/images/sf18.png" style="width:75%">Mathematics room</figure> |
+
+|  |  |
+|---|---|
+| <figure><img src="/images/sf19.png" style="width:65%">Science Room1</figure> | <figure><img src="/images/sf20.png" style="width:75%"> </figure> |
+| <figure><img src="/images/sf21.png" style="width:65%">Science Room 2</figure> | <figure><img src="/images/sf22.png" style="width:75%"></figure> |
