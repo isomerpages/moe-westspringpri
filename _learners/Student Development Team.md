@@ -8,7 +8,8 @@ description: ""
 **Overview of West Spring Primary School’s Sexuality Education Programme for 2022**
 
 1\.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) for more information on the scope of Sexuality Education in the school curriculum. <br>
-2.  The subjects that incorporate topics on sexuality include:
+
+2\.  The subjects that incorporate topics on sexuality include:
     1.  Science
     2.  Form Teacher Guidance Period (FTGP)
     3.  Character and Citizenship Education (CCE)
@@ -16,7 +17,8 @@ description: ""
 **Growing Years (GY) Programme**: “Curious Minds (2nd Edition)” (Primary 5 & 6) Teaching & Learning resource package
 
 3\.  The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges. <Br>
-4.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2ndEdition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
+
+4\.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2ndEdition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _changes_, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 **At West Spring Primary School, the following lessons from the Growing Years (GY) Programme will be taught in 2022:**
 
