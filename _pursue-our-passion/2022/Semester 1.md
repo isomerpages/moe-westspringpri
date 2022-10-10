@@ -10,7 +10,7 @@ third_nav_title: "2022"
 
 Congratulation to SUN RUI XUAN MELVIN (5B) and ONG JUN KAI JEVIER (5D) who achieved merit award in the Memory Games Challenge 2022 organised by Qifa Primary School. This challenge which comprises of puzzles and games, in the form of a virtual escape room, ignites the joy of learning Chinese Language in our students. 
 
-<img src="/images/ps1.png" style="width:80%">
+<img src="/images/ps1.jpeg" style="width:70%">
 
 <img src="/images/ps2.png" style="width:80%">
 
