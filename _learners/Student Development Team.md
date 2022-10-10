@@ -27,6 +27,9 @@ description: ""
 **Information for Parents**
 
 5\.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers. <br>
-6.  Parents who wish to opt their children out of the **Growing Years (GY) programme**need to complete an opt-out form. This form will be sent to parents via Parents Gateway. **The completed form is to be submitted by the stipulated deadline.** <br>
-7.  Parents can contact the school at [westspring\_ps@moe.edu.sg](mailto:westspring_ps@moe.edu.sg)for discussion or to seek clarification about the school’s sexuality education programme. <Br>
-8.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+
+6\.  Parents who wish to opt their children out of the **Growing Years (GY) programme**need to complete an opt-out form. This form will be sent to parents via Parents Gateway. **The completed form is to be submitted by the stipulated deadline.** <br>
+
+7\.  Parents can contact the school at [westspring\_ps@moe.edu.sg](mailto:westspring_ps@moe.edu.sg)for discussion or to seek clarification about the school’s sexuality education programme. <Br>
+
+8\.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
