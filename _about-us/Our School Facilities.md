@@ -17,3 +17,7 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 | <figure><img src="/images/sf5.png" style="width:75%"><figcaption> Computer Room</figcaption></figure> | <figure><img src="/images/sf6.png" style="width:75%"><figcaption>The MALL<br>(Multi-disciplinary Approach to Learning with Lego)</figcaption></figure> |
 | <figure><img src="/images/sf7.png" style="width:75%"><figcaption>Outdoor Performing Theatre</figcaption></figure> | <figure><img src="/images/sf8.png" style="width:75%"><figcaption> Indoor Sports Hall</figcaption></figure> |
 
+|  |  |
+|---|---|
+| <figure><img src="/images/sf9.png" style="width:75%"><figcaption> Multi Purpose Hall</figcaption></figure> | <figure><img src="/images/sf10.png" style="width:75%"><figcaption>Astro Soccer Turf</figcaption></figure> |
+| <figure><img src="/images/sf11.png" style="width:75%"><figcaption>Sandpit</figcaption></figure> | <figure><img src="/images/sf12.png" style="width:75%"><figcaption>Parade Square</figcaption></figure> |
