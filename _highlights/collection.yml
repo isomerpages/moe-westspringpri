@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Parents/School Calendar 2022.md
       - Parents/School Calendar of Events 2022.md
       - Parents/MOE FAS.md
       - Parents/Student Care@West Spring.md
