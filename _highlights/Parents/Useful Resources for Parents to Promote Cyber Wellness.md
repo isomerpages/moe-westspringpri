@@ -4,12 +4,9 @@ permalink: /quick-links/Parents/useful-resources/
 description: ""
 third_nav_title: Parents
 ---
-
 ### Useful Resources for Parents to Promote Cyber Wellness
 
-[pdf retrieve link here](/files/cw1.pdf)
-
-<p><a href="web"><img style="width:45%" src="/images/cw1.png"></a></p>
+<p><a href="https://staging.d2p7wye1kgnp2o.amplifyapp.com/files/cw1.pdf"><img style="width:35%" src="/images/cw1.png"></a></p>
 
 <p><a href="http://https//www.schoolbag.edu.sg/story/quest-for-cyber-wellness"><img style="width:45%" src="/images/cw2.png"></a></p>
 
