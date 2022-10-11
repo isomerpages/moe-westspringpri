@@ -1,5 +1,5 @@
 collections:
-  highlights:
+  quick-links:
     output: true
     order:
       - Parents/Overview.md
