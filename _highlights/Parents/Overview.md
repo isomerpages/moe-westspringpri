@@ -6,20 +6,20 @@ third_nav_title: Parents
 ---
 ### For Parents
 
-*   [Announcement](https://westspringpri.moe.edu.sg/announcement/) _(NEW)_
-*   [For P6 Parents](https://westspringpri.moe.edu.sg/for-p6-parents/) _(NEW)_
-*   [School Calendar 2022](https://westspringpri.moe.edu.sg/for-parents/schoolcalendar/)
-*   [WSPS School Calendar of Events 2022](https://westspringpri.moe.edu.sg/wsps-calendar/)
-*   [MOE FAS](https://westspringpri.moe.edu.sg/for-parents/moe-fas/)
-*   [Students Care in WSPS](https://westspringpri.moe.edu.sg/for-parents/student-careatwest-spring/)
-*   [School Canteen Menu](https://westspringpri.moe.edu.sg/quicklink-parents/school-canteen-menu/)
-*   [Triple P programme](https://westspringpri.moe.edu.sg/quicklink-parents/triple-p-programme/)
+*   [Announcement](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/announcement/) _(NEW)_
+*   [For P6 Parents](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/for-p6-parents/) _(NEW)_
+*   [School Calendar 2022](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/School-Calendar-2022/)
+*   [WSPS School Calendar of Events 2022](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/calendar-2022/)
+*   [MOE FAS](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/moe-fas/)
+*   [Students Care in WSPS](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/student-care/)
+*   [School Canteen Menu](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/School-Canteen-Menu/)
+*   [Triple P programme](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/Triple-P-Programme/)
 *   [Parents’ Gateway](https://pg.moe.edu.sg/)
 *   [MOE Schoolbag](https://www.schoolbag.edu.sg/)
 *   [WSPS Facebook](https://www.facebook.com/West-Spring-Primary-763228920471063/)
 *   [ICT Helpdesk](https://go.gov.sg/wspshelpdesk)
-*   [Students Learning Space (SLS)](https://westspringpri.moe.edu.sg/students-learning-space/)
-*   [Google Classroom](https://westspringpri.moe.edu.sg/wp-content/uploads/2022/03/Google-Classroom_For-Parents.pdf)
-*   [NEU PC Plus Programme](https://westspringpri.moe.edu.sg/neu-pc/)
-*   [Useful Resources for Parents to Promote Cyber Wellness](https://westspringpri.moe.edu.sg/cyberwellness-userful-resource-wsps/)
-*   [Curriculum Briefing 2022](https://westspringpri.moe.edu.sg/curriculum-briefing-2022/)
+*   [Students Learning Space (SLS)](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/Students-Learning-Space/)
+*   [Google Classroom](/files/Google-Classroom_For-Parents.pdf)
+*   [NEU PC Plus Programme](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/neu-pc-plus-programme/)
+*   [Useful Resources for Parents to Promote Cyber Wellness](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/useful-resources/)
+*   [Curriculum Briefing 2022](https://staging.d2p7wye1kgnp2o.amplifyapp.com/quick-links/Parents/curriculum-briefing/)
