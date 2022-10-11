@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Parents/Announcement.md
       - Parents/For P6 Parents.md
       - Parents/School Calendar 2022.md
       - Parents/School Calendar of Events 2022.md
