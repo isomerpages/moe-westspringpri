@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: West Spring Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/wslogo.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
           description: ""
           url: /quick-links/staff/
 ---
+
