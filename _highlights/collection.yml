@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Students.md
       - Staff.md
