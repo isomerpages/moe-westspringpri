@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Parents
           description: ""
-          url: /quick-links/parents/
+          url: /highlights/Parents/overview/
         - title: Students
           description: ""
           url: /quick-links/students/
@@ -19,4 +19,3 @@ sections:
           description: ""
           url: /quick-links/staff/
 ---
-
