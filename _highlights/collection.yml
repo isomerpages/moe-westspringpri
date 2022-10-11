@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Parents/Student Care@West Spring.md
       - Parents/School Canteen Menu.md
       - Parents/Triple P Programme.md
       - Parents/Students Learning Space.md
