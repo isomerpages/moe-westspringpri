@@ -2,7 +2,6 @@ collections:
   values:
     output: true
     order:
-      - PICTURES.md
       - Celebrations/2022.md
       - Celebrations/2021.md
       - Celebrations/.keep
