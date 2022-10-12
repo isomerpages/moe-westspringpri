@@ -35,7 +35,7 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 
 |  |
 |---|
-| <figure><b><img src="/images/sf23.png" style="width:25%"><figcaption> The Delightful Experience in Learning & Interaction (DELI) Room</b></figcaption></figure> |
+| <figure><b><img src="/images/sf23.png" style="width:25%"> The Delightful Experience in Learning & Interaction (DELI) Room</b></figure> |
 
 |  |
 |---|
