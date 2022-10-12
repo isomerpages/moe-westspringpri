@@ -39,8 +39,7 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 
 |  |
 |---|
-| <img src="/images/sf24.png" style="width:75%"> |
-| <img src="/images/sf25.png" style="width:75%"> |
+| <img src="/images/sf24.png" style="width:45%" align=left><img src="/images/sf25.png" style="width:46%" align=left> |
 | <figure><b>WOW – Woods of Wonder (School Library)</b></figure> |
 
 |  |
