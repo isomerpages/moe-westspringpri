@@ -39,7 +39,7 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 
 |  |
 |---|
-| <img src="/images/sf24.png" style="width:45%" align=left><img src="/images/sf25.png" style="width:46%" align=left> |
+| <img src="/images/sf24.png" style="width:45%" align=left><img src="/images/sf25.png" style="width:45%" align=left> |
 | <figure><b>WOW – Woods of Wonder (School Library)</b></figure> |
 
 |  |
@@ -51,8 +51,8 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 
 |  |  |
 |---|---|
-| <figure><b><img src="/images/sf28.png" style="width:80%"> Play Garden</b></figure> | <figure><b><img src="/images/sf29.png" style="width:65%"> Our rabbit mascot at the school porch</b></figure> |
-| <figure><b><img src="/images/sf30.png" style="width:80%">Eco Pond</b></figure> | <figure><b><img src="/images/sf31.png" style="width:65%">Eco Pond</b></figure> |
+| <figure><b><img src="/images/sf28.png" style="width:90%"> Play Garden</b></figure> | <figure><b><img src="/images/sf29.png" style="width:65%"> Our rabbit mascot at the school porch</b></figure> |
+| <figure><b><img src="/images/sf30.png" style="width:90%">Eco Pond</b></figure> | <figure><b><img src="/images/sf31.png" style="width:65%">Eco Pond</b></figure> |
 
 |  |  |
 |---|---|
@@ -61,5 +61,5 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 
 |  |  |
 |---|---|
-| <figure><b><img src="/images/sf36.png" style="width:65%"> Pedals</b></figure> | <figure><b><img src="/images/sf37.png" style="width:75%"> Pedals</b></figure> |
-| <figure><b><img src="/images/sf38.png" style="width:65%">Net-A-Maze</b></figure> | <figure><b><img src="/images/sf39.png" style="width:75%">Our SPACE<br>(Students’ Play Area to Create and Explore)</b></figure> |
+| <figure><b><img src="/images/sf36.png" style="width:65%"> Pedals</b></figure> | <figure><b><img src="/images/sf37.png" style="width:85%"> Pedals</b></figure> |
+| <figure><b><img src="/images/sf38.png" style="width:65%">Net-A-Maze</b></figure> | <figure><b><img src="/images/sf39.png" style="width:85%">Our SPACE<br>(Students’ Play Area to Create and Explore)</b></figure> |
