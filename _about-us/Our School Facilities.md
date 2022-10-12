@@ -33,19 +33,22 @@ New facilities in West Spring Primary School include redesigned classrooms, glos
 | <figure><b><img src="/images/sf19.png" style="width:35%">Science Room1</b></figure> | <figure><img src="/images/sf20.png" style="width:95%"> </figure> |
 | <figure><b><img src="/images/sf21.png" style="width:35%">Science Room 2</b></figure> | <figure><img src="/images/sf22.png" style="width:95%"></figure> |
 
-<figure><b><img src="/images/sf23.png" style="width:25%"><figcaption> The Delightful Experience in Learning & Interaction (DELI) Room</b></figcaption></figure> <br><br>
+|  |
+|---|
+| <figure><b><img src="/images/sf23.png" style="width:25%"><figcaption> The Delightful Experience in Learning & Interaction (DELI) Room</b></figcaption></figure> |
 
-|  |  |
-|---|---|
-|<img src="/images/sf24.png" style="width:75%"> | <img src="/images/sf25.png" style="width:75%"> |
+|  |
+|---|
+| <img src="/images/sf24.png" style="width:75%"> |
+| <img src="/images/sf25.png" style="width:75%"> |
+| <figure><b>WOW – Woods of Wonder (School Library)</b></figure> |
 
-<figure><b>WOW – Woods of Wonder (School Library)</b></figure> <br><br>
+|  |
+|---|
+| <img src="/images/sf26.png" style="width:45%"> |
+| <img src="/images/sf27.png" style="width:65%"> |
+| <figure><b>Oceans of Wonder (School Library)</b></figure> <br><br> |
 
-<img src="/images/sf26.png" style="width:45%">
-
-<img src="/images/sf27.png" style="width:65%">
-
-<figure><b>Oceans of Wonder (School Library)</b></figure> <br><br>
 
 |  |  |
 |---|---|
