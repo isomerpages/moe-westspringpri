@@ -1,0 +1,35 @@
+collections:
+  learners:
+    output: true
+    order:
+      - Play at WSPS/Overview.md
+      - Play at WSPS/Our Philosophy and Learning Approach.md
+      - Play at WSPS/Achieving Balance Between Play & Didactic Teaching.md
+      - Play at WSPS/.keep
+      - PLAY through English/Overview.md
+      - PLAY through English/Key Programmes (English).md
+      - PLAY through English/.keep
+      - PLAY through Maths/Overview.md
+      - PLAY through Maths/Key Programmes (Maths).md
+      - PLAY through Maths/.keep
+      - PLAY through Science/Overview.md
+      - PLAY through Science/Key Programmes (Science).md
+      - PLAY through Science/.keep
+      - PLAY through Mother Tongue/Overview.md
+      - PLAY through Mother Tongue/Key Programmes (Mother Tongue Languages).md
+      - PLAY through Mother Tongue/.keep
+      - PLAY through PHF/Overview.md
+      - PLAY through PHF/Key Programmes (PHF).md
+      - PLAY through PHF/.keep
+      - PLAY through Art/Overview.md
+      - PLAY through Art/Key Programmes (Art).md
+      - PLAY through Art/.keep
+      - PLAY through Music/Overview.md
+      - PLAY through Music/Key Programmes (Music).md
+      - PLAY through Music/.keep
+      - PLAY through PAL/Overview.md
+      - PLAY through PAL/Key Programmes.md
+      - PLAY through PAL/.keep
+      - Key Programmes (Social Studies).md
+      - Key Programmes (Information and Communication Technology).md
+      - Student Development Team.md

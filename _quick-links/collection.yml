@@ -1,0 +1,20 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Parents/Overview.md
+      - Parents/Announcement.md
+      - Parents/For P6 Parents.md
+      - Parents/School Calendar 2022.md
+      - Parents/School Calendar of Events 2022.md
+      - Parents/MOE FAS.md
+      - Parents/Student Care@West Spring.md
+      - Parents/School Canteen Menu.md
+      - Parents/Triple P Programme.md
+      - Parents/Students Learning Space.md
+      - Parents/The NEU PC Plus Programme.md
+      - Parents/Useful Resources for Parents to Promote Cyber Wellness.md
+      - Parents/Curriculum Briefing 2022.md
+      - Parents/.keep
+      - Students.md
+      - Staff.md

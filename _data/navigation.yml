@@ -1,0 +1,19 @@
+logo: /images/wslogo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Learners
+    collection: learners
+  - title: Passion
+    url: /passion/overview/
+    sublinks:
+      - title: CCA
+        url: /cca/overview/
+      - title: Pursue Our Passion
+        url: /pursue-our-passion/2022/semester-1
+  - title: Leaders
+    collection: leaders
+  - title: Values
+    collection: values
+  - title: MOE Kindergarten @ West Spring
+    collection: moe-kindergarten-at-ws

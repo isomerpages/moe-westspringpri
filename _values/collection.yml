@@ -1,0 +1,17 @@
+collections:
+  values:
+    output: true
+    order:
+      - Overview.md
+      - Celebrations/2022.md
+      - Celebrations/2021.md
+      - Celebrations/.keep
+      - Commemorative Events/2022.md
+      - Commemorative Events/2021.md
+      - Commemorative Events/.keep
+      - Character Education/Overview.md
+      - Character Education/Key Programmes (CCE).md
+      - Character Education/.keep
+      - Values in Action/Overview.md
+      - Values in Action/Key Programmes (VIA).md
+      - Values in Action/.keep

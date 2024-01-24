@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Overview.md
+      - Physical Sports/.keep
+      - Physical Sports/Basketball.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Football.md
+      - Physical Sports/Wushu.md
+      - Physical Sports/Outdoor Adventure Club.md
+      - Visual and Performing Art/.keep
+      - Visual and Performing Art/Modern Dance.md
+      - Visual and Performing Art/Chinese Calligraphy.md
+      - Visual and Performing Art/Percussion Ensemble.md
+      - Visual and Performing Art/Choir.md
+      - Visual and Performing Art/Art and Crafts Club.md
+      - Visual and Performing Art/Digital Media Club.md
+      - Uniformed Group/.keep
+      - Uniformed Group/Scouts.md
+      - Club and Societies/.keep
+      - Club and Societies/Environmental Science Club.md
+      - Club and Societies/Robotics Club.md
+      - Club and Societies/Strategy Games Club.md

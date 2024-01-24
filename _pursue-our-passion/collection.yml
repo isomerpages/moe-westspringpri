@@ -1,0 +1,8 @@
+collections:
+  pursue-our-passion:
+    output: true
+    order:
+      - 2022/Semester 1.md
+      - 2022/Semester 2.md
+      - 2022/.keep
+      - 2021.md
